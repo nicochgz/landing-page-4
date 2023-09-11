@@ -1,0 +1,31 @@
+{
+	"name": "Mi primer PWA",
+	"short_name": "MyPWA",
+	"description": "Landing page demo",
+	"background_color": "#fcc302",
+	"theme_color": "#fcc302",
+	"orientation": "portrait",
+	"display": "standalone",
+	"start_url": "./",
+        "id": "/landing-page-4/",
+	"scope": "./",
+	"lang": "es-MX",
+	"icons":[
+		{
+			"src": "./logo/logo_1052.png",
+			"sizes": "1052x1052",
+			"type": "image/png"
+		},
+		{
+			"src": "./logo/logo_202.png",
+			"sizes": "202x202",
+			"type": "image/png"
+		},
+		{
+			"src": "./logo/logo_1024.png",
+			"sizes": "1024x1024",
+			"type": "image/png"
+		}
+	]
+}
+
