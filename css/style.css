@@ -280,7 +280,7 @@ section[id]{
 .title-hero {
     color: white;
     font-weight: 600;
-    font-size: 55px;
+    font-size: 54px;
     margin: 0;
 }
 .description-hero {
@@ -909,4 +909,4 @@ h3.footer-title {
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
     background: rgba(119, 119, 119, 0.536); 
-  }
+}
