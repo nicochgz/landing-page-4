@@ -2,7 +2,7 @@
 	"name": "Mi primer PWA",
 	"short_name": "MyPWA",
 	"description": "Landing page demo",
-	"background_color": "#FFF",
+	"background_color": "#fcc302",
 	"theme_color": "#fcc302",
 	"orientation": "portrait",
 	"display": "standalone",
