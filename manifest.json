@@ -6,7 +6,7 @@
 	"theme_color": "#fcc302",
 	"orientation": "portrait",
 	"display": "standalone",
-	"start_url": "./landing-page-4",
+	"start_url": "https://nicochgz.github.io/landing-page-4/",
 	"scope": "./",
 	"lang": "es-MX",
 	"icons":[
